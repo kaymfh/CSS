@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+nav {
+    background-color: darkolivegreen;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+nav a {
+    color: #fff;
+    display: block;
+}
